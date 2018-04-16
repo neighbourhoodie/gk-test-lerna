@@ -54,6 +54,6 @@
     ]
   },
   "dependencies": {
-    "neighbourhoodie-test-package": "^16.12.0"
+    "neighbourhoodie-test-package": "^18.0.0"
   }
 }
