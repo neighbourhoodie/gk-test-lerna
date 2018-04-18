@@ -3,10 +3,6 @@ node_js:
 - '9.0'
 before_install:
   - npm install -g npm
-  - git clone https://github.com/greenkeeperio/greenkeeper-lockfile.git
-  - cd greenkeeper-lockfile
-  - git checkout feat/monorepos
-  - npm link
-  - cd ..
+  - npm install -g greenkeeperio/greenkeeper-lockfile#feat/monorepo
 before_script: greenkeeper-lockfile-update
 after_script: greenkeeper-lockfile-upload
