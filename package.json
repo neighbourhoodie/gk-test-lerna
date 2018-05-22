@@ -19,7 +19,7 @@
     "remark-preset-wooorm": "^4.0.0",
     "tape": "^4.5.1",
     "unist-util-remove-position": "^1.0.0",
-    "xo": "^0.20.3"
+    "xo": "^0.21.1"
   },
   "scripts": {
     "postinstall": "lerna bootstrap",
@@ -54,6 +54,6 @@
     ]
   },
   "dependencies": {
-    "neighbourhoodie-test-package": "^20.0.0"
+    "neighbourhoodie-test-package": "^22.0.0"
   }
 }
