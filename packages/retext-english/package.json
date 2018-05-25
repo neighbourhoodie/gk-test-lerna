@@ -24,6 +24,8 @@
     "index.js"
   ],
   "dependencies": {
+    "gk-test-a": "^3.0.1",
+    "gk-test-b": "^3.0.1",
     "parse-english": "^4.0.0",
     "unherit": "^1.0.4"
   }
