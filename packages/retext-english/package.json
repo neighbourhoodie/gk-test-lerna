@@ -26,7 +26,7 @@
   "dependencies": {
     "gk-test-a": "^3.0.1",
     "gk-test-b": "^3.0.1",
-    "gk-test-c": "^3.0.1",
+    "gk-test-c": "^7.0.2",
     "parse-english": "^4.0.0",
     "unherit": "^1.0.4"
   }
