@@ -15,7 +15,7 @@
     "process"
   ],
   "dependencies": {
-    "gk-test-a": "^7.1.6",
+    "gk-test-a": "^8.0.0",
     "gk-test-b": "^7.1.6",
     "gk-test-c": "^7.1.6",
     "neighbourhoodie-test-package": "^22.0.0",
