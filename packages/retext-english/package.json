@@ -25,8 +25,10 @@
   ],
   "dependencies": {
     "gk-test-a": "^3.0.1",
-    "gk-test-c": "^3.0.1",
     "parse-english": "^4.0.0",
     "unherit": "^1.0.4"
+  },
+  "devDependencies": {
+    "gk-test-c": "^3.0.1"
   }
 }
