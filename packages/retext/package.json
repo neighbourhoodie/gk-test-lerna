@@ -15,9 +15,9 @@
     "process"
   ],
   "dependencies": {
-    "gk-test-a": "^7.1.6",
-    "gk-test-b": "^7.1.6",
-    "gk-test-c": "^7.1.6",
+    "gk-test-a": "^8.0.0",
+    "gk-test-b": "^8.0.0",
+    "gk-test-c": "^8.0.0",
     "neighbourhoodie-test-package": "^22.0.0",
     "retext-latin": "^2.0.0",
     "retext-stringify": "^2.0.0",
