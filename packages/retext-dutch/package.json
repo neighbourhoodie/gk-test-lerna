@@ -24,8 +24,8 @@
     "index.js"
   ],
   "dependencies": {
-    "gk-test-a": "^3.0.1",
-    "gk-test-c": "^3.0.1",
+    "gk-test-a": "^7.1.1",
+    "gk-test-c": "^7.1.1",
     "neighbourhoodie-test-package": "^22.0.0",
     "parse-dutch": "^4.0.0",
     "unherit": "^1.0.4"
