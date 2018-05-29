@@ -29,6 +29,6 @@
     "unherit": "^1.0.4"
   },
   "devDependencies": {
-    "gk-test-c": "^7.1.6"
+    "gk-test-c": "^8.0.1"
   }
 }
