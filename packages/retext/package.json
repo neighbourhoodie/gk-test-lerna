@@ -17,7 +17,7 @@
   "dependencies": {
     "gk-test-a": "^8.0.1",
     "gk-test-b": "^8.0.1",
-    "gk-test-c": "^7.1.6",
+    "gk-test-c": "^8.0.1",
     "neighbourhoodie-test-package": "^22.0.0",
     "retext-latin": "^2.0.0",
     "retext-stringify": "^2.0.0",
