@@ -26,7 +26,7 @@
   "dependencies": {
     "gk-test-b": "^7.1.6",
     "gk-test-c": "^7.1.6",
-    "neighbourhoodie-test-package": "^22.0.0",
+    "neighbourhoodie-test-package": "^26.3.0",
     "parse-latin": "^4.0.0",
     "unherit": "^1.0.4"
   }
