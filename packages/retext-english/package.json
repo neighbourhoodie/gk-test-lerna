@@ -24,11 +24,11 @@
     "index.js"
   ],
   "dependencies": {
-    "gk-test-a": "^7.1.6",
-    "parse-english": "^4.0.0",
-    "unherit": "^1.0.4"
+    "gk-test-a": "7.1.6",
+    "parse-english": "4.0.0",
+    "unherit": "1.0.4"
   },
   "devDependencies": {
-    "gk-test-c": "^7.1.6"
+    "gk-test-c": "7.1.6"
   }
 }

@@ -15,13 +15,13 @@
     "process"
   ],
   "dependencies": {
-    "gk-test-a": "^7.1.6",
-    "gk-test-b": "^7.1.6",
-    "gk-test-c": "^7.1.6",
-    "neighbourhoodie-test-package": "^22.0.0",
-    "retext-latin": "^2.0.0",
-    "retext-stringify": "^2.0.0",
-    "unified": "^7.0.0"
+    "gk-test-a": "7.1.6",
+    "gk-test-b": "7.1.6",
+    "gk-test-c": "7.1.6",
+    "neighbourhoodie-test-package": "22.0.0",
+    "retext-latin": "2.0.0",
+    "retext-stringify": "2.0.0",
+    "unified": "7.0.0"
   },
   "homepage": "https://github.com/retextjs/retext",
   "repository": "https://github.com/retextjs/retext/tree/master/packages/retext",
